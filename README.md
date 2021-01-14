@@ -8,7 +8,7 @@ Added links to my various medias
 
 https://morgansplaygames.github.io/parkers-updated-portfolio/webfolio.html
 
-![image](pics\Screenshotwebfolio.png)
+![image](Screenshotwebfolio.png)
 
 
 
